@@ -1,9 +1,9 @@
 define({
   root: {
     heading: 'Share',
-    subHeading: 'Share this map',
-    urlTitle: "Esri ArcGIS - {title}",
-    urlSummary: "Check out this map - {summary}",
+    subHeading: 'Share this tool',
+    urlTitle: "CPS LSC Voting Districts",
+    urlSummary: "Find out where you can run for a CPS Local School Council as a Community Representative - {summary}",
     widgetLabel: "Share",
     clipboard: "Copy to clipboard",
     sendLink: "Send a link",
