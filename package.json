@@ -36,7 +36,9 @@
     "build:ts": "tsc",
     "build:sass": "./node_modules/.bin/node-sass styles/main.scss styles/main.css",
     "watch:sass": "./node_modules/.bin/node-sass --watch styles/main.scss styles/main.css",
-    "deploy": "npm run build:sass & npm run build:ts"
+    "deploy": "npm run build:sass & npm run build:ts",
+    "deploy2": "npm run build"
+
   },
   "dependencies": {
     "@esri/application-base-js": "^0.0.18",
